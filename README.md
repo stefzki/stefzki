@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my GitHub profile
+
+- I'm currently not directly working in the tech environment, I am working as manager in the coaches team of a tech department. 
+- I'm currently increasing my professional coaching experience by doing a business coach education.
+- I'm using GitHub to work on my own webpage. Furthermore it keeps some older repositories and some private projects.
 
 <!--
 **stefzki/stefzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
