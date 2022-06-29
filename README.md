@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile
 
-- I'm currently working in the tech environment as manager in a cross functional product team of a B2C product company. 
+- I'm currently working in the tech environment as Head of Technology in a cross functional product area of a B2C product company. 
 - I'm using GitHub to work on my own webpage. Furthermore it keeps some older repositories and some private projects.
 
 <!--
