@@ -1,7 +1,8 @@
 ### Welcome to my GitHub profile
 
-- I'm currently working in the tech environment as Head of Technology in a cross functional product area of a B2C product company. 
-- I'm using GitHub to work on my own webpage. Furthermore it keeps some older repositories and some private projects.
+- I'm currently working in a Head of role in the tech environment of Universal Music Germany. 
+- Furthermore, I support individuals as an internal coach on their journey.
+- I'm using GitHub to work on my own webpage. Furthermore, it keeps some older repositories and some private projects.
 
 <!--
 **stefzki/stefzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
